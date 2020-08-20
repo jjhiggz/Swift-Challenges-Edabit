@@ -1,1 +1,3 @@
-print( isEmpty("") )
+print(
+	isAnagram("cristian", "Cristina")
+)
