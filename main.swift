@@ -1,1 +1,1 @@
-print( factorial(5) )
+print( isEmpty("") )
