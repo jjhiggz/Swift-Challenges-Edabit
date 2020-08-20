@@ -1,1 +1,1 @@
-print( countWords("I ate a whole bowl"))
+print( factorial(5) )
