@@ -1,0 +1,1 @@
+print( countWords("I ate a whole bowl"))
